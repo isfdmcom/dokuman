@@ -1,0 +1,14 @@
+#robots.txt örneği
+
+User-agent: *
+
+Allow: /
+Disallow: /arama/
+Disallow: /amp/arama/
+Disallow: /hesabim/*
+Disallow: /advert*
+
+Sitemap: https://www.isfdm.com/sitemap.xml
+Sitemap: https://www.isfdm.com/image_sitemap.xml
+Sitemap: https://www.isfdm.com/news_sitemap.xml
+Sitemap: https://www.isfdm.com/video_sitemap.xml
